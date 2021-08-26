@@ -1,0 +1,8 @@
+Yami Deck|2|3|2
+Man-Eater bug|Target monster on the field, destroy that target|450|600
+Blue-Eyes White Dragon|This legendary dragon is a powerful engine of destruction.|3000|2500
+Dark hole|Destroy all monsters on the field|SPELL
+Sword of dark destruction|A dark monster equpped with this card increases its ATK point by 400 and decreases its DEF by 200|BUFF
+Magic Cylinder|Inflict damage to your opponent equal to its ATK.|TRAP
+Timegazer Magician|Your opponent cannot activate Trap Magic Cards|1200|600|8|SPELL
+Dragon Capture Jar|Change all face-up Dragon-Type monsters on the field to Defense positions|2000|5500|10|TRAP

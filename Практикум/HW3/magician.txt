@@ -1,0 +1,4 @@
+Magician deck|1|1|1
+Blue-Eyes White Dragon|This legendary dragon is a powerful engine of destruction.|3000|2500
+Swords of Revealing Light|Your opponent's monsters cannot declare an attack.|SPELL
+Timegazer Magician|Your opponent cannot activate Trap Magic Cards|1200|600|8|SPELL
